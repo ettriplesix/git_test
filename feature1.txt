@@ -1,2 +1,2 @@
-- stock
-- promotion
+- stock1
+- promotion2
