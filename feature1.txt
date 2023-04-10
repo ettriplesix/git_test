@@ -1,3 +1,4 @@
 - stock1
 - promotion2
 - level5
+tag v1.0
